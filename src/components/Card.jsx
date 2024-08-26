@@ -100,7 +100,7 @@ const Card = ({ id, name, price, description, url }) => {
                         <button type="button" className="btn btn-primary m-1" data-bs-toggle="modal" data-bs-target={`#${modalId}`}>
                             View
                         </button>
-                        <button className="btn btn-warning m-1">Add To Cart</button>
+                        <button className="btn btn-warning m-1">Add To Cart.</button>
                     
                     </div>
                 </div>
