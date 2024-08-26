@@ -28,7 +28,7 @@ const Main = () => {
                             style={{ width: '400px', height: '400px' }}
                         />
                         <div className="carousel-caption d-none d-md-block">
-                            <h5>Health is wealth</h5>
+                            <h5>Health is wealth but our wealth is krishna</h5>
                             <p>Some representative placeholder content for the first slide.</p>
                         </div>
                     </div>
